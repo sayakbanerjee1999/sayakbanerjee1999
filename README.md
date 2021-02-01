@@ -1,6 +1,6 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <p align="center">
-<img src="https://github.com/sayakbanerjee1999/sayakbanerjee1999/raw/main/sayak.jpeg" width="400" height="600"/>
+<img src="https://github.com/sayakbanerjee1999/sayakbanerjee1999/raw/main/sayak.jpeg" width="500" height="500"/>
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Sayak 👋</b></h1>
