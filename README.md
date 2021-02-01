@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Miles to go before I sleep"</b></h4>
+  <h4 align="center"><b>"To iterate is human, to recurse is divine."</b></h4>
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Developer pursuing BTECH ECE
+### I am a Developer pursuing BTECH ECE at VIT Vellore
 
 -   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 I’m a Data Scientist and a Software Developer.
+-   🌱 I work on projects related to Data Science, Deep Learning, Computer Vision and Software Development.
 -   👯 I’m looking to collaborate with other Developers :wink:
 -   🥅 2021 Goals: Contribute to Novel Research ideas and Try out Competitive Coding
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
@@ -45,7 +45,6 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
