@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/<your-username>/<repo-name>/raw/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/sayakbanerjee1999/sayakbanerjee1999/blob/main/Sayak_Banerjee_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
