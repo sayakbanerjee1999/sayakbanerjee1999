@@ -27,7 +27,7 @@
 
 -   🔭 I’m currently working on various projects and research papers :grin:
 -   🌱 Natural Language Processing, Large Language Models and Information Retrieval is my forte.
--   👯 I’m looking to collaborate with other Research Scientists and Data Scientists:wink:
+-   👯 I’m looking to collaborate with other Research Scientists and Data Scientists :wink:
 -   🥅 2025 Goals: Contribute to Novel Research ideas in NLP
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
