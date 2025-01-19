@@ -36,6 +36,13 @@
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/<your-username>/<repo-name>/raw/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+
 ### Skills
 
 - **Languages & Tools:** Python, C++, PySpark, MySQL, Snowflake, Git, Apache Airflow
