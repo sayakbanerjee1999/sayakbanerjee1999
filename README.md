@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"To iterate is human, to recurse is divine."</b></h4>
+  <h4 align="center"><b>"Data >>>>>> Opinion"</b></h4>
 </p>
 
 <p align="center">
@@ -26,16 +26,16 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Developer pursuing BTECH ECE at VIT Vellore
+### I am a Data Scientist pursuing my Masters in Computational Data Science at Carnegie Mellon University, PA.
 
 -   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 I work on projects related to Data Science, Deep Learning, Computer Vision and Software Development.
--   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2021 Goals: Contribute to Novel Research ideas and Try out Competitive Coding
+-   🌱 Natural Language Processing, Large Language Models and Information Retrieval is my forte.
+-   👯 I’m looking to collaborate with other Research Scientists and Data Scientists:wink:
+-   🥅 2025 Goals: Contribute to Novel Research ideas in NLP
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
--   ⚡ Fun fact: I love connecting with different people :raised_hands:
+-   ⚡ Fun fact: I love connecting with different people and travelling:raised_hands:
 
 <br>
 
@@ -115,4 +115,4 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 [instagram]: https://www.instagram.com/sayak.banerjee_19/
-[linkedin]: https://www.linkedin.com/in/sayak-banerjee-3668a9179/
+[linkedin]: https://www.linkedin.com/in/sayak-banerjee99/
