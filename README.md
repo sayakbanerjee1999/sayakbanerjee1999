@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Data Scientist pursuing my Masters in Computational Data Science at Carnegie Mellon University, PA.
+### I am a Data Scientist Intern at Paylocity where I am building a RAG chatbot to answer all your complex compliance-related queries. I am also pursing my Masters in Computational Data Science at Carnegie Mellon University, PA.
 
 -   🔭 I’m currently working on various projects and research papers :grin:
 -   🌱 Natural Language Processing, Large Language Models and Information Retrieval is my forte.
@@ -49,7 +49,7 @@
   
 - **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
   
-- **Technologies:** Machine Learning, Large Language Models (LLM), Natural Language Processing, Foundation Models, Retrieval- Augmented Generation (RAG), LLM Fine Tuning, LLM In Context Learning, Deep Learning & Neural Networks, Data Engineering/Warehousing, Extract Transform Load (ETL) Pipelines, Azure ML Studio
+- **Technologies:** Machine Learning, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization
 
 
 <!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
