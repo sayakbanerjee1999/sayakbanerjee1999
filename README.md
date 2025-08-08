@@ -50,6 +50,13 @@
 - **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
   
 - **Technologies:** Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Search Engines Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization, Time Series Forecasting, Convolution Neural Networks
+<br>
+<br>
+<br>
+
+### Teaching Asssitant
+At Carnegie Mellon I will be TAing for Applications of NL(X) and LLM in Fall 2025.
+Previously I have TA'ed for the courses - Python for Data Science, Fundamentals of Operationalizing AI
 
 
 <!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
