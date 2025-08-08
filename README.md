@@ -26,8 +26,8 @@
 ### I am a Data Scientist Intern at Paylocity where I am building a RAG chatbot to answer all your complex compliance-related queries. I am also pursing my Masters in Computational Data Science at Carnegie Mellon University, PA.
 
 -   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 Natural Language Processing, Large Language Models and Information Retrieval is my forte.
--   👯 I’m looking to collaborate with other Research Scientists and Data Scientists :wink:
+-   🌱 Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models and Information Retrieval is my forte.
+-   👯 I’m looking to collaborate with other Research Scientists, Data Scientists and Machine Learning Engineers :wink:
 -   🥅 2025 Goals: Contribute to Novel Research ideas in NLP
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
@@ -45,11 +45,11 @@
 
 ### Skills
 
-- **Languages & Tools:** Python, C++, PySpark, MySQL, Snowflake, Git, Apache Airflow
+- **Languages & Tools:** Python, C++, PySpark, MySQL, Snowflake, Git, Apache Airflow, Docker, Kubernetes, MLFlow, Apache Kafka, AWS
   
 - **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
   
-- **Technologies:** Machine Learning, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization
+- **Technologies:** Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Search Engines Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization, Time Series Forecasting, Convolution Neural Networks
 
 
 <!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /> -->
