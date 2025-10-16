@@ -47,7 +47,7 @@
 
 - **Languages & Tools:** Python, C++, PySpark, MySQL, Snowflake, Git, Apache Airflow, Docker, Kubernetes, MLFlow, Apache Kafka, AWS
   
-- **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
+- **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, vLLM, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
   
 - **Technologies:** Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Search Engines Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization, Time Series Forecasting, Convolution Neural Networks
 <br>
