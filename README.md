@@ -23,10 +23,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Data Scientist Intern at Paylocity where I am building a RAG chatbot to answer all your complex compliance-related queries. I am also pursing my Masters in Computational Data Science at Carnegie Mellon University, PA.
+### Pursuing my Masters in Computational Data Science at SCS, Carnegie Mellon University, PA. Over the Summer, I interned at Paylocity where I am built a RAG chatbot to answer all your complex compliance-related queries. 
 
--   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models and Information Retrieval is my forte.
+-   🔭 I’m currently working on various projects :grin:
+-   🌱 Machine Learning, Natural Language Processing, Large Language Models, Inference and Information Retrieval is my forte.
 -   👯 I’m looking to collaborate with other Research Scientists, Data Scientists and Machine Learning Engineers :wink:
 -   🥅 2025 Goals: Contribute to Novel Research ideas in NLP
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
@@ -45,17 +45,17 @@
 
 ### Skills
 
-- **Languages & Tools:** Python, C++, PySpark, MySQL, Snowflake, Git, Apache Airflow, Docker, Kubernetes, MLFlow, Apache Kafka, AWS
+- **Languages & Tools:** Python, C++, PySpark, SQL, FAISS, Snowflake, Docker, Kubernetes, Git, Airflow, MLFlow, Kafka, AWS
   
-- **Libraries and Frameworks:** PyTorch, Huggingface, Tensorflow, vLLM, NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, SpaCy
+- **ML & AI Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain/Graph, vLLM, Scikit-Learn, XGBoost, Pandas
   
-- **Technologies:** Machine Learning, ML Algorithms, Natural Language Processing, Large Language Models (LLM) & Foundation Models, Search Engines Information Retrieval, RAG, Deep Learning Systems, Cloud Computing, ETL Pipelines, CI/CD, Containerization, Time Series Forecasting, Convolution Neural Networks
+- **ML Specialization:** Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems, Multimodal Models, Convolutional Neural Networks (CNNs), Feature Engineering
 <br>
 <br>
 <br>
 
 ### Teaching Asssitant
-At Carnegie Mellon I will be TAing for Applications of NL(X) and LLM in Fall 2025.
+At Carnegie Mellon I will be TAing for Applications of NL(X) and LLM, and Fundamentals of Operationzalizing AI in Fall 2025. 
 Previously I have TA'ed for the courses - Python for Data Science, Fundamentals of Operationalizing AI
 
 
