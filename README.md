@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Pursuing my Masters in Computational Data Science at SCS, Carnegie Mellon University, PA. Over the Summer, I interned at Paylocity where I am built a RAG chatbot to answer all your complex compliance-related queries. 
+### I am Quants Researcher at a L/S Equity Hedge Fund in New York City. I pursued my Masters in Computational Data Science at SCS, Carnegie Mellon University, PA. I interned at Paylocity where I am built a RAG chatbot to answer all your complex compliance-related queries. 
 
 -   🔭 I’m currently working on various projects :grin:
 -   🌱 Machine Learning, Natural Language Processing, Large Language Models, Inference and Information Retrieval is my forte.
