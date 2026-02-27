@@ -45,11 +45,13 @@
 
 ### Skills
 
-- **Languages & Tools:** Python, C++, PySpark, SQL, FAISS, Snowflake, Docker, Kubernetes, Git, Airflow, MLFlow, Kafka, AWS
+- **Languages & Tools:** Python, C++, PySpark, SQL, Snowflake, Docker, Kubernetes, Git, Airflow, MLFlow
   
-- **ML & AI Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain/Graph, vLLM, Scikit-Learn, XGBoost, Pandas
+- **ML & AI Frameworks:** PyTorch, TensorFlow, Hugging Face, Lang Chain/Graph, vLLM, Scikit-Learn, Pandas
   
-- **ML Specialization:** Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems, Multimodal Models, Convolutional Neural Networks (CNNs), Feature Engineering
+- **ML Specialization:** Machine Learning, Natural Language Processing, Large Language Models, Multimodal Models, AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems
+
+- **Data & Systems:** AWS (EKS, ECS, Bedrock, RDS), Inference Engineering, Model Evaluation, Apache Kafka, CI/CD, ETL
 <br>
 <br>
 <br>
